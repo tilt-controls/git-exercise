@@ -3,6 +3,7 @@
   <component name="DoNotAskProjectManager">
     <option name="idToDisplayName">
       <map>
+        <entry key="Branch Context group" value="Branch context switched" />
         <entry key="git.stage.commit.successful" value="" />
       </map>
     </option>
